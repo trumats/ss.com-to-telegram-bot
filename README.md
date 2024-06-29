@@ -41,12 +41,11 @@ Pirms projekta palaistīšanas, pārliecinieties, ka jums ir instalēts:
 
 ## Lietošana
 
+Skripts saņems transporta sludinājumu RSS ierakstus no SS.COM un nosūtīs ziņojumus uz jūsu Telegram čatu, filtrējot tos pēc norādītā cenaskāla.
 Palaidiet skriptu, lai saņemtu RSS ierakstus un nosūtītu filtrētus ziņojumus uz Telegram:
 
    ```bash
    python rss_to_telegram.py
-
-Skripts saņems transporta sludinājumu RSS ierakstus no SS.COM un nosūtīs ziņojumus uz jūsu Telegram čatu, filtrējot tos pēc norādītā cenaskāla.
 
 ## Pielāgošana
 
