@@ -42,6 +42,7 @@ Pirms projekta palaistīšanas, pārliecinieties, ka jums ir instalēts:
 ## Lietošana
 
 Palaidiet skriptu, lai saņemtu RSS ierakstus un nosūtītu filtrētus ziņojumus uz Telegram:
+
    ```bash
    python rss_to_telegram.py
 
