@@ -36,7 +36,7 @@ Pirms projekta palaistīšanas, pārliecinieties, ka jums ir instalēts:
 
 2. **Telegram čata ID iestatīšana:**
 
-- Iegūstiet savu Telegram čata ID, izmantojot [šo metodi](https://stackoverflow.com/a/32683882).
+- Iegūstiet savu Telegram čata ID, izmantojot [šo metodi](https://stackoverflow.com/questions/32423837/telegram-bot-how-to-get-a-group-chat-id).
 - Aizstājiet `'YOUR_CHAT_ID'` ar jūsu īsto čata ID failā `rss_to_telegram.py`.
 
 ## Lietošana
